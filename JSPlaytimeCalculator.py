@@ -1,5 +1,8 @@
 '''
-This script is made by Joyggy and is available under the Gnu General Public License v3.
+JSPlaytimeCalculator by Joyggy
+Version 1.0
+
+This script is available under the Gnu General Public License v3.
 I would appreciate a it if you could link to my Github Account (https://github.com/Joyggy) when using my code in your projects but the license doesn't forces you to do so.
 '''
 
