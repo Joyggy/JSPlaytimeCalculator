@@ -1,4 +1,4 @@
-# JSPlaytimeCalculator
+# JSteamPlaytimeCalculator
 This Python Script is made with intention of calculating how much time is needed to finish every game in Steam library. 
 The Python version which is used is Python 3.6. The JSON and Request modules are necessary.
 
